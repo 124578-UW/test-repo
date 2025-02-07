@@ -1,7 +1,12 @@
 # test-repo
+Testing a repository 
 
-Testing a repository
+
+
+
 vijay likes blue
+
+vijay likes chaos
 
 Testing a repository
 
@@ -11,9 +16,3 @@ Thank you so much linus torvalds, we love you <3, wow okay, this is a test.
 
 Thank you so much linus torvalds, we love you <3
 
-Vijay is into little kids
-Vijay is into old women also
-
-
-Testing branches
-VIJAY HAS A FUCKING FAKE ACCENT
