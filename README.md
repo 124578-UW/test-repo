@@ -1,10 +1,11 @@
 # test-repo
-Testing a repository 
+
+Testing a repository
 vijay likes blue
 
 Testing a repository
 
 ## Wondering how Git works, this is pretty fun.
+Thank you so much linus torvalds, we love you <3, wow okay, this is a test.
 
-Thank you so much linus torvalds, we love you <3 (Changes made to the main file)
-
+Testing branches
